@@ -38,7 +38,7 @@ WORKDIR /var/www/html
 ########################################
 # LABEL SÃO DESCRIÇÕES DO CONTAINER
 LABEL description="Webserver da massa"
-LABEL version="1.0.foda-se"
+LABEL version="1.0.0"
 ########################################
 
 ########################################
